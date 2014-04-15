@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my different text file
+=======
+new file was created!
+>>>>>>> f79a43fabe2d6554a40e817575d2f5b2f575a5cd
