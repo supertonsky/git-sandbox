@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 DELETED BY TEMP2
+=======
+EDITED BY TEMP1
+>>>>>>> branch 'master' of https://github.com/supertonsky/git-sandbox.git
